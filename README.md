@@ -1,12 +1,7 @@
-# Processor
-## NAME (NETID)
+# Motivation
 
 ## Description of Design
 
-## Bypassing
+## Duck Hunt
 
-## Stalling
 
-## Optimizations
-
-## Bugs
