@@ -2,12 +2,12 @@
 For a final project for Digital Systems, myself and a peer challenged ourselves to leverage my processor designed in Verilog and simulated on an FPGA to do something. We chose to simulate a shooting gallery game like one you would see at Bass Pro Shops.
 
 ## Proccesor Design
-This processor was a five stage pipelined processor with bypassing.
-size: 32 bit
-speed: 100 MHz
-adder/subtractor: Carry Look-ahead Adder
-multiplier: Modified Booths algorithm 
-Divider: Non Restoring algorithm
+This processor was a five stage pipelined processor with bypassing. <br />
+size: 32 bit <br />
+speed: 100 MHz <br />
+adder/subtractor: Carry Look-ahead Adder <br />
+multiplier: Modified Booths algorithm  <br />
+Divider: Non Restoring algorithm <br />
 
 ## Inputs and Outputs
 My processor inputs included phototransistors at each of the four targets,a joystick to aim the laser gun, and a button to fire the laser. A “Start” button input initiated a “game,” allowing control of the Servo motors and commencing a 30 second countdown. The required outputs included a display to reflect the user’s “score” , two Servo motors motors for altitude and azimuth control, and an LED at each target. 
